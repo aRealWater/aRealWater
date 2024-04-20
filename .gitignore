@@ -1,0 +1,6 @@
+.DS_STORE
+/garbage
+# *.txt
+
+# 代表除了a.txt都忽略
+# !a.txt
